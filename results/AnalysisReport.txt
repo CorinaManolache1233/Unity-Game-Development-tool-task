@@ -1,0 +1,22 @@
+==================================================
+          UNITY PROJECT ANALYSIS REPORT           
+==================================================
+Analysis Date: 11/5/2025 12:46:57 PM
+Unique Scripts Found: 6
+Scripts Used in Scenes: 0
+--------------------------------------------------
+
+[ 1. UNUSED SCRIPTS (6) ]
+(Scripts found in the project, but NOT ATTACHED to any GameObject in scenes)
+- Assets/Scripts/Nested/UnusedScript2.cs
+- Assets/Scripts/ScriptA.cs
+- Assets/Scripts/ScriptB.cs
+- Assets/Scripts/ScriptC.cs
+- Assets/Scripts/ScriptD.cs
+- Assets/Scripts/UnusedScript.cs
+--------------------------------------------------
+
+[ 2. SCRIPTS WITH INCONSISTENCIES (0) ]
+(Scripts ATTACHED to GameObjects that have serialized fields found in .unity files, but which are MISSING from the actual C# code. These may cause data loss.)
+No scripts found with serialization inconsistencies (missing fields).
+==================================================
